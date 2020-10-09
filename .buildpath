@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="framework/core"/>
+	<buildpathentry kind="src" path="framework/database"/>
+	<buildpathentry kind="src" path="framework/helpers"/>
+	<buildpathentry kind="src" path="framework/language/english"/>
+	<buildpathentry kind="src" path="framework/language/spanish"/>
+	<buildpathentry kind="src" path="framework/libraries"/>
+	<buildpathentry kind="src" path="nbproject/autocomplete"/>
+	<buildpathentry kind="src" path="public"/>
+	<buildpathentry kind="src" path="src/config"/>
+	<buildpathentry kind="src" path="src/controllers"/>
+	<buildpathentry kind="src" path="src/helpers"/>
+	<buildpathentry kind="src" path="src/hooks"/>
+	<buildpathentry kind="src" path="src/libraries"/>
+	<buildpathentry kind="src" path="src/models"/>
+	<buildpathentry kind="src" path="src/views"/>
+	<buildpathentry kind="src" path="vendor"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>
