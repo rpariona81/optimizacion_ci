@@ -1,5 +1,5 @@
-/src/config/database.php
 /framework
+/src/config/database.php
 /vendor
 .env
 .env.backup
