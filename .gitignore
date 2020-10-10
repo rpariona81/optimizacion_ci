@@ -1,4 +1,3 @@
-/framework
 /src/config/database.php
 /vendor
 .env
